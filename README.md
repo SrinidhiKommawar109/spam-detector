@@ -94,7 +94,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ```
 
----
 
-Would you like a Streamlit version of this project to make it interactive on the web?
-```
